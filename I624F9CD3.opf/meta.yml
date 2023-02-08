@@ -1,0 +1,16 @@
+id: I624F9CD3
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:59:55.271710
+last_modified: 2023-02-08 14:59:55.271811
+source_metadata:
+  title: 'BA: Proto-BA (Buddhanāmanirdeśa)'
+  language: zh
+bases:
+  DDC7:
+    base_file: DDC7.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
